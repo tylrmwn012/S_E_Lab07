@@ -1,3 +1,13 @@
+/* Program Title: EECS 348 Lab 07
+   Description: This C project takes a user's inputs for temperature, current temperature value, and 
+                temperature value to convert to, then converts the temperature to the requested scale returning
+                a temperature category and a weather advisory along with the new temperature.
+   Inputs: Temperature in float value, it's temperature scale, and the scale the user would like to convert to.
+   Outputs: The temperature in the converted value, the temperature category, and the weather advisory.
+   Collaborators: None
+   Sources: None
+   Author: Tyler Mowen
+   Creation Date: 19 March, 2025 */
 #include <stdio.h> // import functions from standard library like printf
 #include <string.h> // import functions from library like strcmp
 

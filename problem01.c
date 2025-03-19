@@ -1,3 +1,13 @@
+/* Program Title: EECS 348 Lab 07
+   Description: This C project prompts a user to enter the number of points a team in the NFL
+                has received, then returns every possible combination of points possible 
+                to get to that score.
+   Inputs: The score of the NFL football game as an integer
+   Outputs: Every combination of points to get to that score
+   Collaborators: None
+   Sources: None
+   Author: Tyler Mowen
+   Creation Date: 19 March, 2025 */
 #include <stdio.h> // import the standard C library
 
 void combinations(int score) { // initialize function which takes score and calculates each possible combination to reach score
