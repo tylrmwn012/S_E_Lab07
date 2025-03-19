@@ -86,8 +86,7 @@ int main() {
         return 0;
     }
 
-    printf(" \n");
-    printf("Converted temperature: %.2f\n", convertedTemp);
+    printf("\nConverted temperature: %.2f\n", convertedTemp);
 
     float celsius;
     if (strcmp(tempScale, "Fahrenheit") == 0) {
