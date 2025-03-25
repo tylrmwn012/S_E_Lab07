@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tylermowen/Desktop/Software Engineering/Lab07/problem01'
+relocations:     []
+...
